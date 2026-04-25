@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 5. Configurar API Key
+## 5. Configurar API Key
 
 En Linux/Mac:
 
@@ -74,7 +74,7 @@ setx OPENAI_API_KEY "tu_api_key"
 
 ---
 
-## 🚀 6. Ejecutar el chatbot
+## 6. Ejecutar el chatbot
 
 Ubícate en la carpeta del proyecto y ejecuta:
 
@@ -84,7 +84,7 @@ python main.py
 
 ---
 
-## 💬 7. Uso del chatbot
+## 7. Uso del chatbot
 
 Una vez iniciado:
 
